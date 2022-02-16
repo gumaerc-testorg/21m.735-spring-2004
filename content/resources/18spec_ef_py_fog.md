@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/42d234d268c2c5c90c9de6046df63378_18spec_ef_py_fog.pdf
+file: /media/courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/42d234d268c2c5c90c9de6046df63378_18spec_ef_py_fog.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 18spec_ef_py_fog.pdf
 uid: 42d234d2-68c2-c5c9-0c9d-e6046df63378

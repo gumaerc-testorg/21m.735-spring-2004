@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/f403bc13467ea5e871ab2b2daf597499_drkp_tn_al_nul.pdf
+file: /media/courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/f403bc13467ea5e871ab2b2daf597499_drkp_tn_al_nul.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: drkp_tn_al_nul.pdf
 uid: f403bc13-467e-a5e8-71ab-2b2daf597499

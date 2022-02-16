@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/503a9aa0848989c7a4c16c3efb6f62a9_mpdyvgmitedu11.pdf
+file: /media/courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/503a9aa0848989c7a4c16c3efb6f62a9_mpdyvgmitedu11.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: mpdyvgmitedu11.pdf
 uid: 503a9aa0-8489-89c7-a4c1-6c3efb6f62a9

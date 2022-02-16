@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/d44871061919b450575442e48ab60ee0_lcsmit_edu2.pdf
+file: /media/courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/d44871061919b450575442e48ab60ee0_lcsmit_edu2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: lcsmit_edu2.pdf
 uid: d4487106-1919-b450-5754-42e48ab60ee0
