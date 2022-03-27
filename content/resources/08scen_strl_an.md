@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7ab6ae47-f961-4b79-44ef-243984cf3f3d
 resourcetype: Document
 title: 08scen_strl_an.pdf
 uid: bed16a7e-abd4-0af9-5cf8-241bfc275e3a

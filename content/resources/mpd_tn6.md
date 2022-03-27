@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7ab6ae47-f961-4b79-44ef-243984cf3f3d
 resourcetype: Document
 title: mpd_tn6.pdf
 uid: 6a0cfce1-abdc-5ac1-6939-7e17e8ba0d39

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7ab6ae47-f961-4b79-44ef-243984cf3f3d
 resourcetype: Document
 title: patchschematic.pdf
 uid: c54a0882-0e20-c2fa-4b2f-d838dfdf5bbc

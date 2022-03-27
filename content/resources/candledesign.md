@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7ab6ae47-f961-4b79-44ef-243984cf3f3d
 resourcetype: Document
 title: candledesign.pdf
 uid: 9065dcb9-cdc9-7abd-7488-decfde41e50a

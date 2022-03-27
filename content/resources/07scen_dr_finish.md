@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7ab6ae47-f961-4b79-44ef-243984cf3f3d
 resourcetype: Document
 title: 07scen_dr_finish.pdf
 uid: 42f59b12-49ef-fe1c-99b9-865183071b12

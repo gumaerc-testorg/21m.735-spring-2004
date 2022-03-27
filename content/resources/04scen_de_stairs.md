@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7ab6ae47-f961-4b79-44ef-243984cf3f3d
 resourcetype: Document
 title: 04scen_de_stairs.pdf
 uid: c1c9c9b7-f774-caf5-83ad-4e0516ececdc

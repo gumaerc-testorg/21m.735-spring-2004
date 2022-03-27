@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7ab6ae47-f961-4b79-44ef-243984cf3f3d
 resourcetype: Document
 title: drkp_tn3.pdf
 uid: 73496ed8-8b05-baaf-f6e4-0e7c2fa1aee3

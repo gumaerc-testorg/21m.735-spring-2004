@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7ab6ae47-f961-4b79-44ef-243984cf3f3d
 resourcetype: Document
 title: 16spec_eff_proj.pdf
 uid: 9f4227f6-673f-b9f6-66f5-2087f1de1b5f

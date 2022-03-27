@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7ab6ae47-f961-4b79-44ef-243984cf3f3d
 resourcetype: Document
 title: 18spec_ef_py_fog.pdf
 uid: 42d234d2-68c2-c5c9-0c9d-e6046df63378

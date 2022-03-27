@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 7ab6ae47-f961-4b79-44ef-243984cf3f3d
 resourcetype: Document
 title: mpdyvgmitedu11.pdf
 uid: 503a9aa0-8489-89c7-a4c1-6c3efb6f62a9
