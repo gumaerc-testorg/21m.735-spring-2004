@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 43a80c3d-a1a4-b54f-e262-e13d7581b191
 ---
@@ -180,7 +182,7 @@ Vendors
 
 [Norcostco](http://www.norcostco.com/)
 
-[Little Giant Ladder SystemTM](http://www.ladders.com/)
+[Little Giant Ladder System{{< sup "{{< sub \"TM\" >}}" >}}](http://www.ladders.com/)
 
 [Darnell-Rose](http://www.darnellrose.com/)
 
@@ -218,7 +220,7 @@ Vendors
 
 [Vector Depot](http://www.vectordepot.com/)
 
-[McMaster-Carr®](http://www.mcmaster.com/)
+[McMaster-Carr{{< sub "{{< sup \"®\" >}}" >}}](http://www.mcmaster.com/)
 
 [New Age Industries - Plastic and Rubber Tubing and Hose](http://www.newageindustries.com/)
 
