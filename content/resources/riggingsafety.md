@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/d5688b478c9f24b0b4da3c6447e3dca7_riggingsafety.pdf
+file: /courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/d5688b478c9f24b0b4da3c6447e3dca7_riggingsafety.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

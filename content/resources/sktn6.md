@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/53fdf7a6ae96b5f22cd30e936a3ee786_sktn6.pdf
+file: /courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/53fdf7a6ae96b5f22cd30e936a3ee786_sktn6.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
