@@ -1,13 +1,13 @@
 ---
 content_type: page
+description: This section contains links to external resources.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 43a80c3d-a1a4-b54f-e262-e13d7581b191
 ---
-
-Technical Theater Organizations
--------------------------------
+## Technical Theater Organizations
 
 [USITT](http://www.usitt.org/)
 
@@ -83,8 +83,7 @@ Technical Theater Organizations
 
 [Automation Techies](http://www.automationtechies.com/)
 
-Theater Sites
--------------
+## Theater Sites
 
 [American Memory](http://lcweb2.loc.gov/ammem/ammemhome.html)
 
@@ -126,8 +125,7 @@ Theater Sites
 
 [International Theatre Resources from Artslynx](http://www.arts5.com/detail/5888/artslynx-international-theatre-resources.html)
 
-Wood and Shop Sites
--------------------
+## Wood and Shop Sites
 
 [Shopbot CNC Tools](http://www.shopbottools.com/)
 
@@ -155,8 +153,7 @@ Wood and Shop Sites
 
 [Woodlist, Inc. Featuring: Flooring, Doors, Stonework, Surplus, and More](http://www.am-wood.com/wood/woodlist.html)
 
-Vendors
--------
+## Vendors
 
 [Liquidation](http://www.liquidation.com/)
 
@@ -182,7 +179,7 @@ Vendors
 
 [Norcostco](http://www.norcostco.com/)
 
-[Little Giant Ladder System{{< sup "{{< sub \"TM\" >}}" >}}](http://www.ladders.com/)
+[Little Giant Ladder System](http://www.ladders.com/)™
 
 [Darnell-Rose](http://www.darnellrose.com/)
 
@@ -220,7 +217,7 @@ Vendors
 
 [Vector Depot](http://www.vectordepot.com/)
 
-[McMaster-Carr{{< sub "{{< sup \"®\" >}}" >}}](http://www.mcmaster.com/)
+[McMaster-Carr](http://www.mcmaster.com/)®
 
 [New Age Industries - Plastic and Rubber Tubing and Hose](http://www.newageindustries.com/)
 
@@ -230,8 +227,7 @@ Vendors
 
 [Unistrut](http://www.unistrut.com/)
 
-Video/Audio Sites
------------------
+## Video/Audio Sites
 
 [Digital Video Editing](https://digitalvideoediting.com/)
 
@@ -241,15 +237,13 @@ Video/Audio Sites
 
 [Welcome to TCH](https://tchweb.com/)
 
-Engineering Sites
------------------
+## Engineering Sites
 
 [eFunda](http://www.efunda.com/home.cfm)
 
 [Engineering Mechanics of Solids](http://web.mit.edu/emech/dontindex-build/index.html)
 
-Cad-Vectorworks Sites
----------------------
+## Cad-Vectorworks Sites
 
 Welcome to Vector Worker
 
