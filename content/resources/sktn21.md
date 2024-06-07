@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/2fc945887b5df9558d4549d01b1093ef_sktn21.pdf
+file_size: 1101706
 file_type: application/pdf
 learning_resource_types:
 - Assignments
