@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/a88759bcd32c517790139ad22a58108f_dogs.pdf
+file_size: 34416
 file_type: application/pdf
 learning_resource_types:
 - Assignments
