@@ -75,8 +75,6 @@ uid: 43a80c3d-a1a4-b54f-e262-e13d7581b191
 
 [The Griplosk Glider](http://www.griplocksystems.com/)
 
-[Nifty Gadgets](http://www.Nifty-Gadgets.com/)
-
 [Lighting Links](http://www.apexlightingsolutions.com/lighting-links/)
 
 [Flame Retardant Products](http://flameretardants.americanchemistry.com/FAQs/Flame-Retardant-Basics.html)
@@ -92,8 +90,6 @@ uid: 43a80c3d-a1a4-b54f-e262-e13d7581b191
 [Books 24x7](http://books24x7.com/books24x7.asp)
 
 [Literature Online](http://lion.chadwyck.com/marketing/index.jsp)
-
-[Stage Specs Online](http://www.stagespecs.com/)
 
 [Red Monkey](http://redmonkey.com/)
 
@@ -142,8 +138,6 @@ uid: 43a80c3d-a1a4-b54f-e262-e13d7581b191
 [Welcome to 'Da Bin'](http://www.woodbin.com/)
 
 [Tulnoy Plastics](http://www.tulnoylumber.com/vacuum.html)
-
-[Workshop Hints: Replacing Missing or Damaged Gong Rods or Tubes](http://users.qldnet.com.au/~ajay/From%20an%20Engineer%27s%20Notebook/Gongs.htm)
 
 [Grizzly Industrial Outlet Store](http://www.grizzly.com/outlet/)
 
@@ -245,12 +239,8 @@ uid: 43a80c3d-a1a4-b54f-e262-e13d7581b191
 
 ## Cad-Vectorworks Sites
 
-Welcome to Vector Worker
-
 [Vector Works](http://www.nemetschek.net/)
 
 [Vector Depot Links](http://www.vectordepot.com/links/)
 
 [3D Cafe](http://www.3dcafe.com/)
-
-[C. A. D. Tutorials for the Theatre](https://courses.cit.cornell.edu/pma3626/VWtutorial2015/titlepage.html)
