@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/30f4d11fa15ec24dc30867d0eddf0426_debriscannon.pdf
+file: /ol-ocw-studio-app/courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/30f4d11fa15ec24dc30867d0eddf0426_debriscannon.pdf
 file_size: 41202
 file_type: application/pdf
 learning_resource_types:
