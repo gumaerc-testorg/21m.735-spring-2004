@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/a3305d248d66ce4a67bc7098661d2dd4_03tech_de_flats.pdf
+file: /courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/a3305d248d66ce4a67bc7098661d2dd4_03tech_de_flats.pdf
 file_size: 59953
 file_type: application/pdf
 learning_resource_types:

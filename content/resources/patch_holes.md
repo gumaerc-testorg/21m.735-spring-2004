@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/3bf99838a81a60132e7a651f96e4fb73_patch_holes.pdf
+file: /courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/3bf99838a81a60132e7a651f96e4fb73_patch_holes.pdf
 file_size: 41384
 file_type: application/pdf
 learning_resource_types:
