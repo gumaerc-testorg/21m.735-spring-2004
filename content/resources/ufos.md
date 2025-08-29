@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/c7c9ac54fbd14b565e7158f6d8a795c1_ufos.pdf
+file: /ol-ocw-studio-app/courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/c7c9ac54fbd14b565e7158f6d8a795c1_ufos.pdf
 file_size: 36052
 file_type: application/pdf
 learning_resource_types:
