@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/a5c19b32f226acecfbf557d0b846f84c_woolserge.pdf
+file: /ol-ocw-studio-app/courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/a5c19b32f226acecfbf557d0b846f84c_woolserge.pdf
 file_size: 77652
 file_type: application/pdf
 learning_resource_types:
