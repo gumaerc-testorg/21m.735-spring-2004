@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/d44871061919b450575442e48ab60ee0_lcsmit_edu2.pdf
+file: /ol-ocw-studio-app/courses/21m-735-technical-design-scenery-mechanisms-and-special-effects-spring-2004/d44871061919b450575442e48ab60ee0_lcsmit_edu2.pdf
 file_size: 20162
 file_type: application/pdf
 learning_resource_types:
